@@ -21,8 +21,8 @@
    </license>
 
    <requires>
-          <import plugin="java_cup.runtime" version="0.0.0" match="greaterOrEqual"/>
-          <import plugin="org.apache.xerces" version="0.0.0" match="greaterOrEqual"/>
+          <import plugin="java_cup.runtime"/>
+          <import plugin="org.apache.xerces"/>
    </requires>
 
    <plugin

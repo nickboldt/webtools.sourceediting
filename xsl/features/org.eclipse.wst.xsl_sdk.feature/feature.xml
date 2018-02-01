@@ -19,9 +19,8 @@
       %license
    </license>
    <requires>
-      <import feature="org.eclipse.wst.xsl.feature" version="0.0.0" match="greaterOrEqual"/>
-      <import feature="org.eclipse.wst.xsl.feature.source" version="0.0.0" match="greaterOrEqual"/>
-      <import feature="org.eclipse.wst.xml.xpath2.processor.feature" version="0.0.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.wst.xsl.feature"/>
+      <import feature="org.eclipse.wst.xml.xpath2.processor.feature"/>
    </requires>
 
    <plugin
